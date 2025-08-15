@@ -386,7 +386,7 @@ export default function HomePage() {
               <Badge variant="outline" className="border-primary text-primary">
                 Championing Democracy
               </Badge>
-              <p className="text-sm opacity-75">© 2024 Vanguard For Democracy In Nigeria</p>
+              <p className="text-sm opacity-75">© 2025 Vanguard For Democracy In Nigeria</p>
             </div>
           </div>
         </div>
